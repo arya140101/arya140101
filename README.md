@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Azarya Divino
-- 👀 I like study
-- 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on me
-- 📫 How to reach me ...
+<h1>👋 Hi, I’m Azarya Divino </h1>
+- 👀 I like study <br>
+- 🌱 I’m currently learning everything <br>
+- 💞️ I’m looking to collaborate on me <br>
+- 📫 How to reach me ... <br>
 
 <!---
 arya140101/arya140101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
