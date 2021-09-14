@@ -1,7 +1,7 @@
 <h1>🙌 Hi, I’m Azarya Divino </h1>
 - 👀 I like study <br>
 - 🌱 I’m currently learning everything <br>
-- 💞️ I’m looking to collaborate on me <br>
+- 💞️ I’m looking to collaborate on<br>
 - 📫 How to reach me ... <br>
 
 <!---
